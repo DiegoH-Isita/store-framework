@@ -36,7 +36,8 @@
       "callToActionMode": "link",
       "callToActionText": "Discover",
       "callToActionUrl": "/sale/d",
-      "texAlignment": "center"
+      "texAlignment": "center",
+      "blockClass": "metal"
     }
   }
 }
